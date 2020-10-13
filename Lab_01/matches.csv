@@ -533,7 +533,6 @@
 2019-12-14,2338574,Spirit,Riot Squad,1,Inferno,Train,Vertigo,Dust2,Overpass,Mirage,0.0,0.0,Nuke
 2019-12-14,2338596,ALTERNATE aTTaX,Sprout,3,Nuke,Dust2,0.0,Vertigo,Train,0.0,Inferno,Mirage,Overpass
 2019-12-13,2338245,Illuminar,GODSENT,1,Dust2,Inferno,Overpass,Mirage,Vertigo,Train,0.0,0.0,Nuke
-2019-12-13,2338235,W7M,DETONA,1,Dust2,Vertigo,Inferno,Nuke,Mirage,Overpass,0.0,0.0,Train
 2019-12-13,2338439,Redemption POA,Evidence,3,Mirage,Vertigo,0.0,Nuke,Overpass,0.0,Train,Inferno,Dust2
 2019-12-13,2338541,Syman,BTRG,3,Nuke,Train,0.0,Vertigo,Overpass,0.0,Inferno,Mirage,Dust2
 2019-12-13,2338542,TYLOO,Keyd,3,Nuke,Vertigo,0.0,Train,Mirage,0.0,Inferno,Overpass,Dust2
@@ -1038,7 +1037,6 @@
 2019-11-12,2337674,TYLOO,Lynn Vision,3,Nuke,Overpass,0.0,Train,Mirage,0.0,Vertigo,Dust2,Inferno
 2019-11-12,2337770,SKADE,Izako Boars,3,Vertigo,Overpass,0.0,Inferno,Dust2,0.0,Mirage,Train,Nuke
 2019-11-12,2337714,Sprout,Illuminar,3,Vertigo,Inferno,0.0,Dust2,Mirage,0.0,Nuke,Train,Overpass
-2019-11-12,2337764,HellRaisers,SMASH,3,Nuke,Vertigo,0.0,Mirage,Train,0.0,Inferno,Dust2,Overpass
 2019-11-12,2337771,Espada,EXTREMUM,3,Inferno,Vertigo,0.0,Nuke,Overpass,0.0,Dust2,Mirage,Train
 2019-11-12,2337785,HellRaisers,m1x,3,Dust2,Overpass,0.0,Inferno,Vertigo,0.0,Nuke,Mirage,Train
 2019-11-12,2337796,Espada,Izako Boars,3,Inferno,Mirage,0.0,Dust2,Vertigo,0.0,Overpass,Nuke,Train
@@ -1142,7 +1140,6 @@
 2019-11-03,2337595,GamerLegion,Virtus.pro,3,Nuke,Vertigo,0.0,Dust2,Inferno,0.0,Overpass,Train,Mirage
 2019-11-03,2337427,HAVU,forZe,3,Inferno,Overpass,0.0,Vertigo,Train,0.0,Dust2,Mirage,Nuke
 2019-11-03,2337551,Heretics,Phoenix,3,Train,Overpass,0.0,Nuke,Vertigo,0.0,Inferno,Mirage,Dust2
-2019-11-03,2337608,DETONA,Evidence,3,Overpass,Vertigo,0.0,Nuke,Inferno,0.0,Dust2,Mirage,Train
 2019-11-03,2337605,GamerLegion,BIG,3,Nuke,Inferno,0.0,Vertigo,Mirage,0.0,Overpass,Train,Dust2
 2019-11-03,2337554,RUFUS,Redemption POA,3,Vertigo,Inferno,0.0,Mirage,Overpass,0.0,Nuke,Train,Dust2
 2019-11-03,2337591,HellRaisers,Illuminar,3,Vertigo,Mirage,0.0,Dust2,Train,0.0,Inferno,Nuke,Overpass
@@ -1511,7 +1508,6 @@
 2019-10-09,2336854,Aristocracy,Unique,3,Nuke,Inferno,0.0,Vertigo,Overpass,0.0,Mirage,Dust2,Train
 2019-10-09,2336893,SMASH,Virtus.pro,1,Mirage,Inferno,Nuke,Dust2,Overpass,Vertigo,0.0,0.0,Train
 2019-10-09,2336907,Illuminar,Virtus.pro,1,Dust2,Mirage,Inferno,Vertigo,Overpass,Train,0.0,0.0,Nuke
-2019-10-09,2336855,Copenhagen Flames,ex-Epsilon,3,Overpass,Dust2,0.0,Vertigo,Train,0.0,Nuke,Inferno,Mirage
 2019-10-09,2336706,BIG,FaZe,3,Vertigo,Dust2,0.0,Train,Overpass,0.0,Nuke,Mirage,Inferno
 2019-10-09,2336882,Heretics,Espada,3,Overpass,Train,0.0,Inferno,Nuke,0.0,Dust2,Vertigo,Mirage
 2019-10-09,2336707,mousesports,OpTic,3,Inferno,Overpass,0.0,Nuke,Mirage,0.0,Vertigo,Train,Dust2
@@ -1557,7 +1553,6 @@
 2019-10-05,2336815,Sprout,Tricked,3,Train,Nuke,0.0,Dust2,Inferno,0.0,Mirage,Overpass,Vertigo
 2019-10-04,2336330,fnatic,NiP,3,Vertigo,Train,0.0,Mirage,Inferno,0.0,Dust2,Nuke,Overpass
 2019-10-04,2336799,Fallen5,Bren,3,Nuke,Inferno,0.0,Vertigo,Mirage,0.0,Overpass,Train,Dust2
-2019-10-04,2336753,Aristocracy,ex-Epsilon,3,Inferno,Mirage,0.0,Vertigo,Dust2,0.0,Nuke,Train,Overpass
 2019-10-04,2336764,Unique,pro100,3,Inferno,Dust2,0.0,Vertigo,Train,0.0,Nuke,Overpass,Mirage
 2019-10-04,2336787,DreamEaters,Gambit Youngsters,3,Vertigo,Mirage,0.0,Nuke,Inferno,0.0,Overpass,Train,Dust2
 2019-10-04,2336332,mousesports,Vitality,3,Overpass,Nuke,0.0,Train,Vertigo,0.0,Mirage,Inferno,Dust2
@@ -1572,7 +1567,6 @@
 2019-10-03,2336324,Liquid,Grayhound,3,Train,Overpass,0.0,Vertigo,Dust2,0.0,Mirage,Nuke,Inferno
 2019-10-03,2336325,mousesports,OpTic,3,Overpass,Vertigo,0.0,Inferno,Train,0.0,Mirage,Nuke,Dust2
 2019-10-03,2336676,SJ,Aristocracy,1,Vertigo,Overpass,Mirage,Inferno,Nuke,Train,0.0,0.0,Dust2
-2019-10-03,2336650,Monky See Monky Do,Paradox,3,Train,Mirage,0.0,Vertigo,Inferno,0.0,Dust2,Overpass,Nuke
 2019-10-03,2336775,District 9,Global,1,Overpass,Vertigo,Inferno,Mirage,Dust2,Nuke,0.0,0.0,Train
 2019-10-03,2336327,Astralis,Vitality,3,Mirage,Inferno,0.0,Train,Overpass,0.0,Vertigo,Dust2,Nuke
 2019-10-03,2336677,Giants,Illuminar,1,Overpass,Mirage,Train,Dust2,Inferno,Nuke,0.0,0.0,Vertigo
@@ -1798,7 +1792,6 @@
 2019-09-20,2336066,Illuminar,AGO,1,Dust2,Train,Nuke,Overpass,Vertigo,Mirage,0.0,0.0,Inferno
 2019-09-20,2336272,FURIA,Illuminar,1,Dust2,Overpass,Inferno,Mirage,Train,Nuke,0.0,0.0,Vertigo
 2019-09-20,2336271,DreamEaters,Sprout,1,Nuke,Train,Mirage,Vertigo,Inferno,Overpass,0.0,0.0,Dust2
-2019-09-20,2336168,Bpro,adwokacik,3,Vertigo,Dust2,0.0,Overpass,Nuke,0.0,Mirage,Inferno,Train
 2019-09-20,2336250,NRG,Sharks,3,Vertigo,Inferno,0.0,Overpass,Dust2,0.0,Nuke,Mirage,Train
 2019-09-20,2336065,Sprout,Aristocracy,1,Vertigo,Overpass,Train,Inferno,Nuke,Dust2,0.0,0.0,Mirage
 2019-09-20,2336063,Syman,DreamEaters,1,Overpass,Inferno,Dust2,Train,Nuke,Vertigo,0.0,0.0,Mirage
@@ -1956,7 +1949,6 @@
 2019-09-12,2335978,New Identity,Divine,3,Nuke,Inferno,0.0,Dust2,Train,0.0,Overpass,Vertigo,Mirage
 2019-09-12,2335974,Sharks,Mythic,3,Overpass,Inferno,0.0,Mirage,Train,0.0,Nuke,Dust2,Vertigo
 2019-09-12,2335977,Riot Squad,RBG,3,Overpass,Vertigo,0.0,Train,Mirage,0.0,Inferno,Nuke,Dust2
-2019-09-12,2335947,Bpro,ex-Epsilon,3,Mirage,Vertigo,0.0,Overpass,Nuke,0.0,Inferno,Dust2,Train
 2019-09-12,2335981,The Quest,LiViD,3,Train,Dust2,0.0,Vertigo,Inferno,0.0,Nuke,Mirage,Overpass
 2019-09-12,2335990,GamerLegion,BIG,3,Nuke,Mirage,0.0,Vertigo,Overpass,0.0,Inferno,Train,Dust2
 2019-09-12,2336022,forZe,BIG,3,Train,Dust2,0.0,Nuke,Vertigo,0.0,Mirage,Overpass,Inferno
@@ -2042,10 +2034,8 @@
 2019-09-06,2335748,Furious,Sinisters,3,Vertigo,Train,0.0,Mirage,Nuke,0.0,Overpass,Dust2,Inferno
 2019-09-05,2335697,Paradox,Genuine,3,Vertigo,Mirage,0.0,Dust2,Nuke,0.0,Inferno,Train,Overpass
 2019-09-05,2335745,Agressive,Malvinas,3,Vertigo,Inferno,0.0,Train,Overpass,0.0,Mirage,Nuke,Dust2
-2019-09-05,2335696,Shidiots,Monky See Monky Do,3,Vertigo,Nuke,0.0,Train,Mirage,0.0,Overpass,Inferno,Dust2
 2019-09-05,2335647,Renegades,ENCE,3,Overpass,Train,0.0,Vertigo,Inferno,0.0,Mirage,Nuke,Dust2
 2019-09-05,2335648,Vitality,AVANGAR,3,Train,Overpass,0.0,Nuke,Vertigo,0.0,Mirage,Inferno,Dust2
-2019-09-04,2335742,Nordavind,Bpro,3,Train,Nuke,0.0,Vertigo,Dust2,0.0,Inferno,Overpass,Mirage
 2019-09-04,2335741,ex-Epsilon,Japaleno,3,Vertigo,Inferno,0.0,Nuke,Train,0.0,Mirage,Overpass,Dust2
 2019-09-04,2335740,Heretics,Movistar Riders,3,Train,Vertigo,0.0,Dust2,Mirage,0.0,Nuke,Overpass,Inferno
 2019-09-03,2335678,Keyd,paiN,3,Overpass,Vertigo,0.0,Mirage,Dust2,0.0,Train,Nuke,Inferno
@@ -2258,7 +2248,6 @@
 2019-08-10,2335381,Spirit,Winstrike,3,Vertigo,Dust2,0.0,Inferno,Mirage,0.0,Nuke,Overpass,Train
 2019-08-10,2335396,Espada,Gambit Youngsters,3,Inferno,Train,0.0,Nuke,Overpass,0.0,Vertigo,Mirage,Dust2
 2019-08-10,2335269,Peeker's Advantage,Lazarus,3,Vertigo,Nuke,0.0,Mirage,Overpass,0.0,Train,Dust2,Inferno
-2019-08-10,2335364,9z,Furious,3,Train,Nuke,0.0,Vertigo,Dust2,0.0,Overpass,Mirage,Inferno
 2019-08-10,2335267,Riot Squad,ATK,3,Nuke,Dust2,0.0,Train,Vertigo,0.0,Mirage,Inferno,Overpass
 2019-08-10,2335268,Kansas City Pioneers,New Identity,3,Dust2,Mirage,0.0,Vertigo,Inferno,0.0,Nuke,Overpass,Train
 2019-08-10,2335405,Spirit,Vega Squadron,3,Vertigo,Overpass,0.0,Nuke,Train,0.0,Inferno,Dust2,Mirage
@@ -2283,7 +2272,6 @@
 2019-08-07,2335335,EOX,Bulldozer,1,Dust2,Nuke,Overpass,Vertigo,Inferno,Mirage,0.0,0.0,Train
 2019-08-06,2335332,RED Canids,EOX,1,Mirage,Vertigo,Inferno,Nuke,Dust2,Overpass,0.0,0.0,Train
 2019-08-06,2335305,Vexed,LDLC,3,Train,Vertigo,0.0,Overpass,Nuke,0.0,Mirage,Dust2,Inferno
-2019-08-06,2335328,AVANT,Justice,3,Vertigo,Train,0.0,Inferno,Overpass,0.0,Nuke,Mirage,Dust2
 2019-08-06,2335214,ALTERNATE aTTaX,DreamEaters,3,Mirage,Dust2,0.0,Vertigo,Nuke,0.0,Overpass,Inferno,Train
 2019-08-06,2335239,AVANGAR,BIG,3,Nuke,Train,0.0,Vertigo,Overpass,0.0,Mirage,Dust2,Inferno
 2019-08-06,2335240,Bpro,Winstrike,3,Vertigo,Nuke,0.0,Inferno,Train,0.0,Overpass,Dust2,Mirage
@@ -2392,7 +2380,6 @@
 2019-07-26,2334948,AVANT,TYLOO,3,Vertigo,Train,0.0,Nuke,Dust2,0.0,Overpass,Mirage,Inferno
 2019-07-26,2335142,Ambush,Tricked,1,Train,Nuke,Dust2,Vertigo,Mirage,Inferno,0.0,0.0,Overpass
 2019-07-26,2335151,Copenhagen Flames,Movistar Riders,1,Vertigo,Inferno,Dust2,Train,Overpass,Nuke,0.0,0.0,Mirage
-2019-07-26,2335153,ex-Epsilon,Zorka,3,Vertigo,Train,0.0,Nuke,Overpass,0.0,Inferno,Dust2,Mirage
 2019-07-26,2335154,Ancient,Tricked,1,Train,Mirage,Inferno,Vertigo,Dust2,Overpass,0.0,0.0,Nuke
 2019-07-26,2335003,DreamEaters,Syman,3,Mirage,Vertigo,0.0,Overpass,Nuke,0.0,Inferno,Dust2,Train
 2019-07-26,2335168,Lyngby Vikings,hREDS,1,Overpass,Mirage,Dust2,Train,Nuke,Vertigo,0.0,0.0,Inferno
@@ -3357,7 +3344,6 @@
 2019-05-21,2333512,DETONA,Bulldozer,1,Nuke,Dust2,Train,Overpass,Vertigo,Mirage,0.0,0.0,Inferno
 2019-05-21,2333513,W7M,paiN,1,Dust2,Overpass,Train,Mirage,Vertigo,Inferno,0.0,0.0,Nuke
 2019-05-21,2333506,Redemption POA,Evidence,3,Vertigo,Nuke,0.0,Overpass,Dust2,0.0,Train,Inferno,Mirage
-2019-05-21,2333514,Santos,Inflames,1,Inferno,Train,Mirage,Vertigo,Overpass,Nuke,0.0,0.0,Dust2
 2019-05-21,2333445,Cloud9,eUnited,3,Vertigo,Overpass,0.0,Mirage,Dust2,0.0,Inferno,Train,Nuke
 2019-05-21,2332945,BIG,Heroic,3,Nuke,Mirage,0.0,Train,Dust2,0.0,Inferno,Overpass,Vertigo
 2019-05-21,2333430,FaZe,G2,3,Overpass,Train,0.0,Mirage,Inferno,0.0,Dust2,Nuke,Vertigo
@@ -3602,7 +3588,7 @@
 2019-05-03,2332950,Akopalipsa,Copenhagen Flames,3,Overpass,Vertigo,0.0,Dust2,Mirage,0.0,Inferno,Train,Nuke
 2019-05-03,2332937,Windigo,GamerLegion,3,Vertigo,Inferno,0.0,Train,Nuke,0.0,Overpass,Mirage,Dust2
 2019-05-03,2332747,Vega Squadron,HellRaisers,3,Nuke,Overpass,0.0,Vertigo,Dust2,0.0,Mirage,Train,Inferno
-2019-05-03,2332951,SJ,Ambush,3.,Vertigo,Dust2,0.0,Nuke,Inferno,0.0,Train,Overpass,Mirage
+2019-05-03,2332951,SJ,Ambush,3,Vertigo,Dust2,0.0,Nuke,Inferno,0.0,Train,Overpass,Mirage
 2019-05-03,2332748,AVANGAR,DreamEaters,3,Nuke,Vertigo,0.0,Train,Inferno,0.0,Dust2,Overpass,Mirage
 2019-05-03,2332989,SJ,Copenhagen Flames,3,Vertigo,Nuke,0.0,Dust2,Inferno,0.0,Train,Overpass,Mirage
 2019-05-02,2332911,Chaos,expert,1,Nuke,Train,Dust2,Overpass,Vertigo,Inferno,0.0,0.0,Mirage
@@ -3626,7 +3612,7 @@
 2019-05-01,2332768,mousesports,Renegades,3,Dust2,Cache,0.0,Overpass,Nuke,0.0,Train,Inferno,Mirage
 2019-05-01,2332757,Grayhound,Heroic,3,Train,Dust2,0.0,Cache,Nuke,0.0,Inferno,Mirage,Overpass
 2019-05-01,2332770,MVP PK,BIG,3,Cache,Mirage,0.0,Nuke,Train,0.0,Inferno,Dust2,Overpass
-2019-05-01,2332883,Windigo Academy,Unique,3.,Dust2,Inferno,0.0,Overpass,Vertigo,0.0,Nuke,Train,Mirage
+2019-05-01,2332883,Windigo Academy,Unique,3,Dust2,Inferno,0.0,Overpass,Vertigo,0.0,Nuke,Train,Mirage
 2019-05-01,2332884,Monolith,Nemiga,3,Inferno,Vertigo,0.0,Train,Nuke,0.0,Dust2,Overpass,Mirage
 2019-05-01,2332904,Unique,Nemiga,3,Overpass,Dust2,0.0,Train,Vertigo,0.0,Mirage,Inferno,Nuke
 2019-05-01,2332882,Windigo,DreamEaters,3,Vertigo,Inferno,0.0,Train,Nuke,0.0,Overpass,Dust2,Mirage
@@ -3745,7 +3731,6 @@
 2019-04-21,2332397,5POWER,MVP PK,3,Nuke,Overpass,0.0,Cache,Mirage,0.0,Dust2,Train,Inferno
 2019-04-21,2332574,5POWER,EHOME,3,Overpass,Vertigo,0.0,Mirage,Train,0.0,Dust2,Nuke,Inferno
 2019-04-21,2332590,Valiance,AVANGAR,3,Overpass,Mirage,0.0,Nuke,Vertigo,0.0,Train,Inferno,Dust2
-2019-04-21,2332692,DreamEaters,Vaevictis,3,Train,Nuke,0.0,Overpass,Cache,0.0,Inferno,Mirage,Dust2
 2019-04-21,2332301,fnatic,Natus Vincere,3,Train,Dust2,0.0,Cache,Mirage,0.0,Nuke,Overpass,Inferno
 2019-04-21,2332591,FURIA,AVANGAR,3,Dust2,Mirage,0.0,Nuke,Overpass,0.0,Vertigo,Inferno,Train
 2019-04-21,2332302,Windigo,G2,3,Nuke,Cache,0.0,Mirage,Overpass,0.0,Train,Dust2,Inferno
@@ -3983,7 +3968,6 @@
 2019-04-08,2332324,ALTERNATE aTTaX,Tricked,3,Vertigo,Dust2,0.0,Overpass,Train,0.0,Inferno,Nuke,Mirage
 2019-04-08,2332325,Virtus.pro,NoChance,3,Dust2,Overpass,0.0,Nuke,Inferno,0.0,Train,Mirage,Vertigo
 2019-04-08,2332416,Akopalipsa,Giants,3,Overpass,Vertigo,0.0,Mirage,Train,0.0,Inferno,Dust2,Nuke
-2019-04-07,2332410,AGO,Valiance,3,Mirage,Dust2,0.0,Overpass,Vertigo,0.0,Inferno,Nuke,Train
 2019-04-07,2332377,ex-Fragsters,devils.one,3,Overpass,Vertigo,0.0,Inferno,Dust2,0.0,Nuke,Train,Mirage
 2019-04-07,2332378,Mock-it,AGO,3,Train,Vertigo,0.0,Mirage,Nuke,0.0,Inferno,Overpass,Dust2
 2019-04-07,2332379,Unique,Valiance,3,Nuke,Vertigo,0.0,Overpass,Dust2,0.0,Inferno,Mirage,Train
@@ -4826,7 +4810,6 @@
 2019-01-19,2330250,AVANGAR,Winstrike,3,Nuke,Cache,0.0,Inferno,Overpass,0.0,Dust2,Train,Mirage
 2019-01-19,2330249,Spirit,Gambit,3,Train,Inferno,0.0,Nuke,Cache,0.0,Mirage,Overpass,Dust2
 2019-01-18,2330247,Spirit,AVANGAR,3,Train,Cache,0.0,Nuke,Inferno,0.0,Overpass,Dust2,Mirage
-2019-01-18,2330352,INTZ.Academy,W7M,of,Inferno,Nuke,0.0,Dust2,Overpass,0.0,Cache,Mirage,Train
 2019-01-18,2330248,Winstrike,Gambit,3,Inferno,Train,0.0,Nuke,Mirage,0.0,Cache,Overpass,Dust2
 2019-01-18,2330252,ENCE,Valiance,3,Cache,Inferno,0.0,Overpass,Nuke,0.0,Dust2,Mirage,Train
 2019-01-18,2330251,North,Vitality,3,Overpass,Cache,0.0,Train,Inferno,0.0,Nuke,Dust2,Mirage
@@ -4895,7 +4878,6 @@
 2019-01-08,2330194,unknown,Flow,3,Mirage,Dust2,0.0,Nuke,Overpass,0.0,Train,Cache,Inferno
 2019-01-08,2330148,Izako Boars,Tricked,3,Nuke,Mirage,0.0,Overpass,Inferno,0.0,Dust2,Train,Cache
 2019-01-05,2330164,Endpoint,London,3,Nuke,Train,0.0,Cache,Dust2,0.0,Overpass,Inferno,Mirage
-2018-12-30,2330139,CyberZen,MVP PK,3,Nuke,Train,0.0,Overpass,Cache,0.0,Dust2,Inferno,Mirage
 2018-12-29,2330137,Flash,CyberZen,3,Overpass,Nuke,0.0,Cache,Inferno,0.0,Mirage,Dust2,Train
 2018-12-29,2330135,BTRG.IMBA,5POWER,3,Train,Dust2,0.0,Overpass,Nuke,0.0,Cache,Inferno,Mirage
 2018-12-29,2330136,EHOME,MVP PK,3,Cache,Train,0.0,Overpass,Mirage,0.0,Inferno,Dust2,Nuke
@@ -5194,7 +5176,6 @@
 2018-12-06,2329746,cantwinalan,Rogue,3,Train,Dust2,0.0,Cache,Mirage,0.0,Nuke,Inferno,Overpass
 2018-12-06,2329747,Singularity,Rogue,3,Inferno,Dust2,0.0,Cache,Train,0.0,Mirage,Overpass,Nuke
 2018-12-06,2329735,1337HUANIA,PANTHERS,3,Overpass,Train,0.0,Dust2,Nuke,0.0,Cache,Inferno,Mirage
-2018-12-06,2329734,Vexed,Izako Boars,3,Overpass,Nuke,0.0,Cache,Mirage,0.0,Inferno,Dust2,Train
 2018-12-06,2329736,Nemiga,ex-Royal Bandits,3,Cache,Mirage,0.0,Train,Overpass,0.0,Nuke,Dust2,Inferno
 2018-12-06,2329675,Ghost,Natus Vincere,3,Overpass,Nuke,0.0,Cache,Dust2,0.0,Inferno,Train,Mirage
 2018-12-06,2329674,mousesports,MIBR,3,Overpass,Dust2,0.0,Nuke,Cache,0.0,Train,Inferno,Mirage
@@ -5649,7 +5630,6 @@
 2018-11-01,2328051,Wild,FURIA Inagame,1,Overpass,Dust2,Inferno,Train,Nuke,Cache,0.0,0.0,Mirage
 2018-11-01,2327833,Ground Zero,Breakaway,1,Mirage,Inferno,Nuke,Cache,Train,Overpass,0.0,0.0,Ground
 2018-11-01,2327832,Tainted Minds,Chiefs,1,Dust2,Train,Nuke,Cache,Inferno,Overpass,0.0,0.0,Tainted
-2018-11-01,2328645,Virtus.pro,Izako Boars,3,Overpass,Train,0.0,Nuke,Mirage,0.0,Cache,Inferno,Dust2
 2018-11-01,2328602,AGO,Epsilon,1,Overpass,Cache,Nuke,Dust2,Train,Inferno,0.0,0.0,Mirage
 2018-11-01,2328647,Vexed,Berzerk,1,Dust2,Overpass,Nuke,Inferno,Mirage,Train,0.0,0.0,Cache
 2018-11-01,2328603,Red Reserve,AGO,1,Train,Dust2,Inferno,Overpass,Nuke,Cache,0.0,0.0,Mirage
@@ -5933,12 +5913,10 @@
 2018-10-07,2327104,2ez,Entity,3,Dust2,Cache,0.0,Nuke,Train,0.0,Inferno,Mirage,Overpass
 2018-10-07,2327540,AVANGAR,Kinguin,3,Nuke,Overpass,0.0,Inferno,Dust2,0.0,Mirage,Train,Cache
 2018-10-07,2327355,Gambit,Complexity,1,Inferno,Cache,Mirage,Overpass,Train,Nuke,0.0,0.0,Dust2
-2018-10-07,2327530,Squared,EURONICS,3,Cache,Nuke,0.0,Mirage,Inferno,0.0,Train,Dust2,Overpass
 2018-10-07,2327356,Sprout,mousesports,1,Cache,Dust2,Nuke,Overpass,Inferno,Mirage,0.0,0.0,Train
 2018-10-07,2327556,BOOT-d[S],BOOM,3,Cache,Dust2,0.0,Overpass,Mirage,0.0,Train,Nuke,Inferno
 2018-10-06,2327442,Ambush,Squared,3,Cache,Dust2,0.0,Nuke,Inferno,0.0,Overpass,Train,Mirage
 2018-10-06,2327023,Santos,Imperial,3,Inferno,Overpass,0.0,Cache,Nuke,0.0,Mirage,Train,Dust2
-2018-10-06,2327525,EHOME,MVP PK,3,Cache,Train,0.0,Overpass,Mirage,0.0,Inferno,Dust2,Nuke
 2018-10-06,2327526,GOSU,MVP PK,3,Dust2,Train,0.0,Overpass,Cache,0.0,Mirage,Inferno,Nuke
 2018-10-06,2327441,Great Danes,Ignite,3,Nuke,Cache,0.0,Overpass,Dust2,0.0,Mirage,Inferno,Train
 2018-10-06,2327445,SJ,Endpoint,1,Train,Cache,Nuke,Overpass,Dust2,Inferno,0.0,0.0,Mirage
@@ -5980,7 +5958,6 @@
 2018-10-03,2327277,MIBR,Gorilla Gang,3,Nuke,Dust2,0.0,Inferno,Overpass,0.0,Cache,Mirage,Train
 2018-10-03,2327231,Wild,Isurus,3,Overpass,Nuke,0.0,Cache,Inferno,0.0,Train,Mirage,Dust2
 2018-10-03,2327060,Atlas,The Mad Lads,3,Dust2,Overpass,0.0,Nuke,Train,0.0,Mirage,Cache,Inferno
-2018-10-03,2327284,Flash,5POWER,3,Cache,Dust2,0.0,Overpass,Nuke,0.0,Mirage,Inferno,Train
 2018-10-03,2327285,ViCi,CyberZen,3,Overpass,Dust2,0.0,Cache,Mirage,0.0,Train,Inferno,Nuke
 2018-10-03,2327296,Bpro,Nordavind,1,Cache,Mirage,Dust2,Nuke,Inferno,Train,0.0,0.0,Overpass
 2018-10-03,2327234,Bravado,TeamOne,3,Overpass,Mirage,0.0,Nuke,Cache,0.0,Inferno,Train,Dust2
@@ -5996,13 +5973,10 @@
 2018-10-02,2327030,Gorilla Gang,FURIA,3,Cache,Inferno,0.0,Dust2,Overpass,0.0,Nuke,Train,Mirage
 2018-10-02,2327031,MIBR,Bravado,3,Nuke,Dust2,0.0,Overpass,Mirage,0.0,Cache,Inferno,Train
 2018-10-02,2326977,TeamOne,Grizzlys,3,Nuke,Dust2,0.0,Cache,Inferno,0.0,Train,Mirage,Overpass
-2018-10-02,2326978,AZIO,Mythic,3,Train,Cache,0.0,Nuke,Mirage,0.0,Overpass,Dust2,Inferno
 2018-10-02,2327239,EHOME,CyberZen,3,Train,Nuke,0.0,Cache,Dust2,0.0,Mirage,Inferno,Overpass
 2018-10-02,2327055,ex-AVANT,Taboo,1,Train,Nuke,Overpass,Mirage,Dust2,Cache,0.0,0.0,Inferno
-2018-10-02,2327243,CyberZen,Flash,3,Cache,Dust2,0.0,Nuke,Train,0.0,Inferno,Mirage,Overpass
 2018-10-02,2327254,Spirit,Space Soldiers,3,Train,Cache,0.0,Nuke,Inferno,0.0,Overpass,Dust2,Mirage
 2018-10-02,2327259,AVANGAR,Vega Squadron,3,Nuke,Cache,0.0,Overpass,Dust2,0.0,Mirage,Inferno,Train
-2018-10-02,2327244,5POWER,ViCi,3,Nuke,Overpass,0.0,Cache,Dust2,0.0,Inferno,Train,Mirage
 2018-10-02,2327267,Royal Bandits,expert,1,Dust2,Nuke,Train,Overpass,Mirage,Cache,0.0,0.0,Inferno
 2018-10-02,2327289,Royal Bandits,AGO,1,Nuke,Train,Dust2,Mirage,Cache,Overpass,0.0,0.0,Inferno
 2018-10-02,2327268,Majestic Lions,PACT,1,Nuke,Overpass,Cache,Dust2,Mirage,Train,0.0,0.0,Inferno
@@ -6016,7 +5990,6 @@
 2018-10-01,2327094,Gorilla Gang,TeamOne,3,Overpass,Cache,0.0,Nuke,Mirage,0.0,Inferno,Dust2,Train
 2018-10-01,2327097,Isurus,W7M,3,Cache,Mirage,0.0,Overpass,Dust2,0.0,Inferno,Train,Nuke
 2018-10-01,2327106,Jaguar,Vault,3,Overpass,Train,0.0,Dust2,Nuke,0.0,Mirage,Inferno,Cache
-2018-10-01,2327051,MC,madlikewizards,1,Dust2,Overpass,Cache,Train,Nuke,Inferno,0.0,0.0,Mirage
 2018-10-01,2327183,attackiereN,Epsilon,1,Overpass,Inferno,Cache,Train,Dust2,Nuke,0.0,0.0,Mirage
 2018-10-01,2327020,Space Soldiers,OpTic,3,Nuke,Train,0.0,Cache,Dust2,0.0,Inferno,Overpass,Mirage
 2018-10-01,2327052,madlikewizards,MC,1,Train,Nuke,Inferno,Overpass,Dust2,Cache,0.0,0.0,Mirage
@@ -6107,7 +6080,6 @@
 2018-09-27,2327011,Imperial,Chaos,3,Dust2,Overpass,0.0,Mirage,Nuke,0.0,Cache,Inferno,Train
 2018-09-27,2327014,3DMAX,SJ,1,Overpass,Train,Mirage,Dust2,Nuke,Cache,0.0,0.0,Inferno
 2018-09-27,2327019,North,Epsilon,3,Cache,Dust2,0.0,Nuke,Overpass,0.0,Train,Mirage,Inferno
-2018-09-26,2326970,ViCi,TYLOO,3,Cache,Overpass,0.0,Nuke,Dust2,0.0,Train,Mirage,Inferno
 2018-09-26,2326484,DETONA,C4,1,Inferno,Overpass,Cache,Train,Nuke,Dust2,0.0,0.0,Mirage
 2018-09-26,2326485,Good Fellas,Isurus,1,Dust2,Nuke,Inferno,Cache,Mirage,Overpass,0.0,0.0,Train
 2018-09-26,2326486,Imperial,Wild,1,Nuke,Cache,Dust2,Overpass,Mirage,Train,0.0,0.0,Inferno
@@ -6602,7 +6574,6 @@
 2018-08-21,2325899,Chaos,Fragsters,3,Nuke,Inferno,0.0,Cache,Overpass,0.0,Dust2,Train,Mirage
 2018-08-21,2325861,Uranus,Bulldozer,3,Cache,Nuke,0.0,Mirage,Dust2,0.0,Inferno,Overpass,Train
 2018-08-21,2325858,Chaos,Valiance,3,Nuke,Mirage,0.0,Overpass,Train,0.0,Dust2,Inferno,Cache
-2018-08-20,2325735,CyberZen,MVP PK,3,Cache,Train,0.0,Dust2,Overpass,0.0,Inferno,Nuke,Mirage
 2018-08-20,2325804,Wild,Avalanche,3,Cache,Overpass,0.0,Dust2,Inferno,0.0,Nuke,Mirage,Train
 2018-08-20,2325607,Uranus,C4,3,Cache,Nuke,0.0,Train,Dust2,0.0,Inferno,Mirage,Overpass
 2018-08-20,2325732,EHOME,BOOT-d[S],3,Cache,Dust2,0.0,Overpass,Mirage,0.0,Inferno,Train,Nuke
@@ -6645,7 +6616,6 @@
 2018-08-18,2325676,FURIA Inagame,Isurus,1,Dust2,Train,Nuke,Cache,Mirage,Inferno,0.0,0.0,Overpass
 2018-08-18,2325716,Monolith,AVANGAR,3,Train,Cache,0.0,Nuke,Overpass,0.0,Inferno,Mirage,Dust2
 2018-08-18,2325769,WINside,Monolith,1,Inferno,Cache,Overpass,Train,Nuke,Mirage,0.0,0.0,Dust2
-2018-08-18,2325509,FriendlyFire,Izako Boars,3,Mirage,Cache,0.0,Nuke,Dust2,0.0,Inferno,Overpass,Train
 2018-08-18,2325767,PLINK,Unique,3,Dust2,Train,0.0,Overpass,Cache,0.0,Nuke,Mirage,Inferno
 2018-08-18,2325797,FURIA Inagame,Avalanche,1,Train,Overpass,Nuke,Dust2,Inferno,Mirage,0.0,0.0,Cache
 2018-08-17,2325688,AVANT,Dynasty,3,Inferno,Dust2,0.0,Nuke,Train,0.0,Overpass,Cache,Mirage
@@ -7222,7 +7192,6 @@
 2018-06-27,2324346,Spirit,HellRaisers,3,Train,Inferno,0.0,Nuke,Cache,0.0,Overpass,Mirage,Dust2
 2018-06-27,2324172,forZe,Monolith,3,Cache,Nuke,0.0,Train,Dust2,0.0,Overpass,Inferno,Mirage
 2018-06-27,2324345,Heroic,AGO,3,Inferno,Cache,0.0,Nuke,Overpass,0.0,Mirage,Dust2,Train
-2018-06-27,2324343,NOBO,Virtus.pro,3,Train,Nuke,0.0,Overpass,Inferno,0.0,Cache,Mirage,Dust2
 2018-06-27,2324348,Spirit,Heroic,3,Train,Mirage,0.0,Inferno,Overpass,0.0,Cache,Nuke,Dust2
 2018-06-27,2324347,Space Soldiers,Virtus.pro,3,Nuke,Overpass,0.0,Cache,Mirage,0.0,Inferno,Train,Dust2
 2018-06-27,2324350,AGO,HellRaisers,3,Nuke,Mirage,0.0,Overpass,Train,0.0,Inferno,Dust2,Cache
@@ -7424,7 +7393,6 @@
 2018-06-11,2323675,SYF,Ground Zero,1,Nuke,Cache,Dust2,Train,Inferno,Overpass,0.0,0.0,Mirage
 2018-06-11,2323748,Rogue,Swole Patrol,3,Cache,Inferno,0.0,Dust2,Nuke,0.0,Mirage,Train,Overpass
 2018-06-11,2323676,Ground Zero,SYF,1,Dust2,Overpass,Mirage,Cache,Nuke,Train,0.0,0.0,Inferno
-2018-06-11,2323728,forZe,HOLLYWOOD,3,Cache,Nuke,0.0,Dust2,Mirage,0.0,Inferno,Train,Overpass
 2018-06-11,2323729,DreamEaters,Monolith,3,Nuke,Dust2,0.0,Train,Cache,0.0,Mirage,Inferno,Overpass
 2018-06-11,2323746,Evolution,k1ck,1,Mirage,Dust2,Overpass,Cache,Nuke,Inferno,0.0,0.0,Train
 2018-06-10,2323708,NOBO,AllTheStars,3,Train,Nuke,0.0,Dust2,Overpass,0.0,Cache,Mirage,Inferno
@@ -7645,7 +7613,6 @@
 2018-05-23,2322988,C4,Bulldozer,1,Inferno,Train,Dust2,Cache,Nuke,Overpass,0.0,0.0,Mirage
 2018-05-23,2323074,TEAMMATE,Coscu Army,1,Mirage,Nuke,Dust2,Train,Cache,Overpass,0.0,0.0,Inferno
 2018-05-23,2322792,Recca,ArkAngel,3,Inferno,Cache,0.0,Train,Nuke,0.0,Dust2,Overpass,Mirage
-2018-05-23,2323081,Quantum Bellator Fire,pro100,3,Overpass,Dust2,0.0,Train,Cache,0.0,Mirage,Inferno,Nuke
 2018-05-23,2323027,AVANGAR,Virtus.pro,3,Nuke,Inferno,0.0,Overpass,Dust2,0.0,Mirage,Train,Cache
 2018-05-23,2323080,Quantum Bellator Fire,HOLLYWOOD,3,Overpass,Mirage,0.0,Dust2,Train,Inferno,Cache,0.0,Nuke
 2018-05-23,2323028,SK,Gambit,3,Nuke,Overpass,0.0,Inferno,Dust2,0.0,Cache,Train,Mirage
@@ -7670,7 +7637,6 @@
 2018-05-21,2323057,Bpro,Invictus Aquilas,1,Overpass,Dust2,Cache,Train,Inferno,Mirage,0.0,0.0,Nuke
 2018-05-21,2323053,Nemiga,Space Jam,3,Cache,Train,0.0,Overpass,Inferno,0.0,Nuke,Mirage,Dust2
 2018-05-20,2323037,MeMyself&I,Asterion,3,Train,Cache,0.0,Overpass,Cobblestone,0.0,Nuke,Inferno,Mirage
-2018-05-20,2323030,eUnited,Swole Patrol,of,Nuke,Overpass,0.0,Mirage,Cobblestone,0.0,Cache,Train,Inferno
 2018-05-20,2322907,AGO,Torqued,3,Nuke,Cache,0.0,Mirage,Dust2,0.0,Train,Inferno,Overpass
 2018-05-20,2322923,pro100,HOLLYWOOD,3,Train,Cache,0.0,Dust2,Nuke,0.0,Inferno,Overpass,Mirage
 2018-05-20,2323029,Envy,ALTERNATE aTTaX,3,Nuke,Mirage,0.0,Cache,Dust2,0.0,Inferno,Overpass,Train
@@ -7722,7 +7688,6 @@
 2018-05-17,2322962,ALTERNATE aTTaX,AGO,3,Cache,Mirage,0.0,Nuke,Dust2,0.0,Train,Inferno,Overpass
 2018-05-17,2322814,Astralis,Liquid,3,Mirage,Train,0.0,Overpass,Cache,0.0,Nuke,Inferno,Dust2
 2018-05-17,2322815,SK,OpTic,3,Nuke,Mirage,0.0,Cache,Overpass,0.0,Train,Dust2,Inferno
-2018-05-16,2322928,Quantum Bellator Fire,forZe,3,Overpass,Dust2,0.0,Cache,Train,0.0,Nuke,Mirage,Inferno
 2018-05-16,2322889,Yeah,TRS,1,Overpass,Mirage,Dust2,Nuke,Inferno,Cache,0.0,0.0,Train
 2018-05-16,2322935,C4,FURIA,1,Inferno,Mirage,Train,Dust2,Overpass,Nuke,0.0,0.0,Cache
 2018-05-16,2322803,MVP PK,NRG,3,Overpass,Nuke,0.0,Inferno,Dust2,0.0,Cache,Train,Mirage
@@ -7789,7 +7754,6 @@
 2018-05-13,2322880,GoodJob,Space Jam,1,Train,Nuke,Cache,Overpass,Dust2,Inferno,0.0,0.0,Mirage
 2018-05-13,2322771,Beyond,Signature,3,Cobblestone,Inferno,0.0,Nuke,Cache,0.0,Mirage,Overpass,Train
 2018-05-13,2322755,BIG,Spirit,3,Mirage,Inferno,0.0,Train,Cache,0.0,Overpass,Nuke,Dust2
-2018-05-13,2322871,ALTERNATE aTTaX,dizLown,3,Inferno,Cache,0.0,Train,Overpass,0.0,Dust2,Nuke,Mirage
 2018-05-13,2322842,Singularity,Quantum Bellator Fire,1,Train,Mirage,Dust2,Overpass,Nuke,Cache,0.0,0.0,Inferno
 2018-05-13,2322883,Vega Squadron,Asterion,1,Nuke,Cobblestone,Overpass,Train,Cache,Mirage,0.0,0.0,Inferno
 2018-05-13,2322869,LDLC,ENCE,3,Mirage,Nuke,0.0,Cache,Inferno,0.0,Dust2,Train,Overpass
@@ -8111,7 +8075,6 @@
 2018-04-20,2322154,GameAgents,EPG,3,Nuke,Overpass,0.0,Inferno,Cache,0.0,Cobblestone,Train,Mirage
 2018-04-20,2322194,HOLLYWOOD,Vega Squadron,3,Nuke,Inferno,0.0,Overpass,Cobblestone,0.0,Train,Mirage,Cache
 2018-04-20,2322188,Space Jam,pro100,3,Nuke,Overpass,0.0,Train,Cache,0.0,Mirage,Cobblestone,Inferno
-2018-04-20,2322198,Property,Enyoy,3,Inferno,Cache,0.0,Overpass,Nuke,0.0,Cobblestone,Mirage,Train
 2018-04-20,2322017,Gambit,Liquid,3,Inferno,Cobblestone,0.0,Nuke,Cache,0.0,Overpass,Mirage,Train
 2018-04-20,2322199,GoodJob,FlipSid3,3,Train,Nuke,0.0,Inferno,Cache,0.0,Cobblestone,Overpass,Mirage
 2018-04-20,2322189,EPG,forZe,3,Overpass,Cobblestone,0.0,Nuke,Cache,0.0,Train,Inferno,Mirage
@@ -8164,7 +8127,6 @@
 2018-04-17,2322104,eXtatus,Kinguin,3,Nuke,Train,0.0,Inferno,Cache,0.0,Overpass,Cobblestone,Mirage
 2018-04-17,2322110,fnatic Academy,GameAgents,1,Mirage,Overpass,0.0,Nuke,Cache,0.0,Cobblestone,Train,Inferno
 2018-04-17,2322112,Epsilon,EURONICS,3,Nuke,Inferno,0.0,Mirage,Cache,0.0,Cobblestone,Overpass,Train
-2018-04-17,2322094,Enyoy,Epiphany Bolt,3,Overpass,Nuke,0.0,Train,Inferno,0.0,Cache,Mirage,Cobblestone
 2018-04-17,2322109,EURONICS,LDLC,1,Mirage,Inferno,Overpass,Train,Cache,Cobblestone,0.0,0.0,Nuke
 2018-04-16,2321925,Enyoy,Quantum Bellator Fire,3,Train,Mirage,0.0,Overpass,Nuke,0.0,Cache,Cobblestone,Inferno
 2018-04-16,2321750,Furious,W7M,1,Train,Inferno,0.0,Overpass,Nuke,0.0,Cache,Cobblestone,Mirage
@@ -8672,13 +8634,11 @@
 2018-03-19,2320893,MC,Tainted Minds,1,Overpass,Train,Cobblestone,Nuke,Mirage,Cache,0.0,0.0,Inferno
 2018-03-19,2319372,Chiefs,Taboo,1,Inferno,Cache,Mirage,Overpass,Cobblestone,Nuke,0.0,0.0,Train
 2018-03-19,2319375,Ground Zero,Dark Sided,1,Nuke,Overpass,Cobblestone,Mirage,Cache,Inferno,0.0,0.0,Train
-2018-03-19,2319374,Dark Sided,Ground Zero,1,Cobblestone,Mirage,Cache,Nuke,Overpass,Train,0.0,0.0,Inferno
 2018-03-19,2320965,Lynn Vision,Beyond,1,Inferno,Cache,Train,Cobblestone,Overpass,Nuke,0.0,0.0,Mirage
 2018-03-19,2320928,Red Reserve,Kinguin,1,Nuke,Train,Cache,Inferno,Mirage,Overpass,0.0,0.0,Cobblestone
 2018-03-19,2320924,Asterion,Sprout,1,Train,Overpass,Cache,Nuke,Mirage,Inferno,0.0,0.0,Cobblestone
 2018-03-19,2321003,ROAR,NewliFe,3,Cobblestone,Nuke,0.0,Cache,Overpass,0.0,Mirage,Train,Inferno
 2018-03-19,2321000,Asterion,PRIDE,1,Train,Cache,Overpass,Inferno,Cobblestone,Nuke,0.0,0.0,Mirage
-2018-03-19,2321015,Dark Origin,ex-SEAL,3,Mirage,Nuke,0.0,Cache,Overpass,0.0,Cobblestone,Train,Inferno
 2018-03-19,2320927,Virtus.pro,Nexus,1,Overpass,Mirage,Cache,Train,Inferno,Nuke,0.0,0.0,Cobblestone
 2018-03-19,2321001,AVANGAR,Sprout,3,Nuke,Inferno,0.0,Overpass,Cache,0.0,Mirage,Cobblestone,Train
 2018-03-19,2321018,DreamEaters,Nexus,3,Cache,Overpass,0.0,Train,Nuke,0.0,Inferno,Mirage,Cobblestone
@@ -9258,7 +9218,6 @@
 2018-02-24,2320091,Knights,AVANT,3,Cobblestone,Cache,0.0,Nuke,Train,0.0,Overpass,Inferno,Mirage
 2018-02-24,2320002,Windigo,Space Soldiers,3,Cache,Nuke,0.0,Overpass,Cobblestone,0.0,Train,Mirage,Inferno
 2018-02-24,2320003,GODSENT,Sprout,3,Nuke,Inferno,0.0,Cache,Train,0.0,Mirage,Cobblestone,Overpass
-2018-02-24,2320004,AGO,GoodJob,3,Nuke,Overpass,0.0,Train,Mirage,0.0,Cobblestone,Inferno,Cache
 2018-02-24,2319699,Natus Vincere,FaZe,3,Cache,Mirage,0.0,Cobblestone,Nuke,0.0,Inferno,Overpass,Train
 2018-02-24,2320005,Valiance,BIG,3,Overpass,Cobblestone,0.0,Inferno,Cache,0.0,Mirage,Nuke,Train
 2018-02-23,2319796,Rise Nation,Mask Off,1,Mirage,Nuke,Overpass,Cobblestone,Cache,Inferno,0.0,0.0,Train
@@ -9999,7 +9958,6 @@
 2017-12-26,2318358,Vega Squadron,AGO,3,Cobblestone,Overpass,0.0,Nuke,Mirage,0.0,Inferno,Train,Cache
 2017-12-26,2318359,Spirit,mousesports,3,Train,Cobblestone,0.0,Inferno,Overpass,0.0,Cache,Mirage,Nuke
 2017-12-25,2318370,Espada,Spirit,3,Nuke,Cobblestone,0.0,Train,Overpass,0.0,Mirage,Cache,Inferno
-2017-12-25,2318369,Codewise Unicorns,Espada,3,Overpass,Nuke,0.0,Cobblestone,Cache,0.0,Inferno,Train,Mirage
 2017-12-25,2318368,AVANGAR,Spirit,3,Nuke,Cobblestone,0.0,Train,Mirage,0.0,Cache,Overpass,Inferno
 2017-12-24,2318366,EPG,Espada,3,Overpass,Mirage,0.0,Nuke,Cobblestone,0.0,Cache,Train,Inferno
 2017-12-24,2318367,Codewise Unicorns,Nemiga,3,Overpass,Nuke,0.0,Cache,Cobblestone,0.0,Inferno,Mirage,Train
@@ -10757,7 +10715,6 @@
 2017-11-08,2316898,eXtatus,ALTERNATE aTTaX,1,Cache,Nuke,Cobblestone,Mirage,Overpass,Inferno,0.0,0.0,Train
 2017-11-08,2316955,Nemiga,Seed,3,Cache,Mirage,0.0,Nuke,Train,0.0,Overpass,Inferno,Cobblestone
 2017-11-08,2316930,Gambit,eXtatus,1,Cobblestone,Mirage,Inferno,Cache,Overpass,Nuke,0.0,0.0,Train
-2017-11-08,2316615,Torqued,Ghost Academy,1,Mirage,Cobblestone,Cache,Overpass,Nuke,Inferno,0.0,0.0,Train
 2017-11-08,2316960,Mostly Harmless,Naventic,1,Cache,Train,Overpass,Inferno,Nuke,Mirage,0.0,0.0,Cobblestone
 2017-11-08,2316884,Naventic,Gorilla Core,1,Overpass,Nuke,Inferno,Train,Cobblestone,Cache,0.0,0.0,Mirage
 2017-11-08,2316875,Gale Force,ex-Denial,1,Nuke,Inferno,Overpass,Cobblestone,Mirage,Train,0.0,0.0,Cache
@@ -11229,7 +11186,6 @@
 2017-10-18,2316206,DreamEaters,Space Jam,3,Cobblestone,Overpass,0.0,Nuke,Cache,0.0,Train,Mirage,Inferno
 2017-10-18,2316065,Zonic,Locastic,3,Overpass,Mirage,0.0,Nuke,Train,0.0,Inferno,Cobblestone,Cache
 2017-10-18,2316070,BIG,Gambit,3,Nuke,Inferno,0.0,Cobblestone,Overpass,0.0,Cache,Train,Mirage
-2017-10-18,2316066,proWince,Binary Dragons,3,Train,Nuke,0.0,Overpass,Cobblestone,0.0,Mirage,Inferno,Cache
 2017-10-17,2315994,Prophecy,GameAgents,1,Cache,Mirage,Nuke,Train,Overpass,Cobblestone,0.0,0.0,Inferno
 2017-10-17,2316126,AGO,forZe,3,Nuke,Cobblestone,0.0,Cache,Overpass,0.0,Train,Mirage,Inferno
 2017-10-17,2316071,Seed,Spirit,1,Nuke,Overpass,Mirage,Train,Cache,Inferno,0.0,0.0,Cobblestone
@@ -11386,7 +11342,6 @@
 2017-10-12,2315868,Epsilon,Crowns,1,Inferno,Nuke,Cobblestone,Mirage,Overpass,Train,0.0,0.0,Cache
 2017-10-12,2315313,GameAgents,KlikTech,3,Train,Overpass,0.0,Cobblestone,Cache,0.0,Mirage,Nuke,Inferno
 2017-10-12,2315689,Cloud9,Astralis,3,Nuke,Train,0.0,Cobblestone,Cache,0.0,Mirage,Overpass,Inferno
-2017-10-12,2314715,Binary Dragons,ex-Outlaws,3,Overpass,Inferno,0.0,Nuke,Train,0.0,Cache,Cobblestone,Mirage
 2017-10-12,2315820,Crowns,North Academy,1,Nuke,Train,Overpass,Cache,Cobblestone,Mirage,0.0,0.0,Inferno
 2017-10-12,2315894,iGame.com,Singularity,1,Cobblestone,Cache,Inferno,Nuke,Overpass,Train,0.0,0.0,Mirage
 2017-10-12,2315869,VITALIS,Endpoint,1,Cobblestone,Mirage,Nuke,Cache,Overpass,Train,0.0,0.0,Inferno
@@ -11480,7 +11435,6 @@
 2017-10-09,2315720,Vega Squadron,Dignitas,3,Cobblestone,Overpass,0.0,Nuke,Cache,0.0,Mirage,Train,Inferno
 2017-10-09,2315310,KlikTech,ex-Outlaws,3,Cobblestone,Inferno,0.0,Nuke,Mirage,0.0,Cache,Overpass,Train
 2017-10-09,2315733,Reason,iGame.com,3,Nuke,Inferno,0.0,Cobblestone,Cache,0.0,Mirage,Train,Overpass
-2017-10-09,2315316,Binary Dragons,Squared,3,Overpass,Cache,0.0,Mirage,Train,0.0,Nuke,Cobblestone,Inferno
 2017-10-09,2315737,HellRaisers,EnVyUs Academy,3,Train,Nuke,0.0,Mirage,Cache,0.0,Overpass,Inferno,Cobblestone
 2017-10-08,2315705,NiP,FaZe,3,Overpass,Inferno,0.0,Cobblestone,Nuke,0.0,Cache,Mirage,Train
 2017-10-08,2314294,Grayhound,SIN,1,Train,Cache,Inferno,Cobblestone,Mirage,Nuke,0.0,0.0,Overpass
@@ -11554,7 +11508,6 @@
 2017-10-05,2315541,Sherifi,Spirit,3,Nuke,Train,0.0,Cache,Overpass,0.0,Mirage,Cobblestone,Inferno
 2017-10-05,2315397,Japaleno,Seed,3,Cache,Nuke,0.0,Overpass,Train,0.0,Mirage,Cobblestone,Inferno
 2017-10-05,2315666,Endpoint,Method,3,Mirage,Cache,0.0,Nuke,Overpass,0.0,Cobblestone,Train,Inferno
-2017-10-05,2314710,Nexus,Binary Dragons,3,Nuke,Inferno,0.0,Overpass,Cobblestone,0.0,Cache,Train,Mirage
 2017-10-05,2315634,Cloud9,Liquid,3,Nuke,Overpass,0.0,Cache,Train,0.0,Mirage,Inferno,Cobblestone
 2017-10-05,2315625,North Academy,ALTERNATE aTTaX,3,Cobblestone,Inferno,0.0,Nuke,Train,0.0,Cache,Overpass,Mirage
 2017-10-05,2315649,PRIDE,TEAM5,1,Overpass,Inferno,Cache,Train,Nuke,Mirage,0.0,0.0,Cobblestone
@@ -11562,7 +11515,6 @@
 2017-10-05,2315524,1337HUANIA,forZe,3,Train,Cobblestone,0.0,Cache,Nuke,0.0,Mirage,Inferno,Overpass
 2017-10-05,2315588,ex-Outlaws,GoodJob,3,Nuke,Mirage,0.0,Train,Overpass,0.0,Inferno,Cache,Cobblestone
 2017-10-05,2315515,Crowns,Fragsters,1,Mirage,Train,Nuke,Cobblestone,Cache,Overpass,0.0,0.0,Inferno
-2017-10-05,2315312,Binary Dragons,RESISTANCE,3,Overpass,Inferno,0.0,Nuke,Cache,0.0,Train,Cobblestone,Mirage
 2017-10-05,2315540,forZe,FlipSid3,3,Cache,Nuke,0.0,Cobblestone,Mirage,0.0,Inferno,Overpass,Train
 2017-10-05,2315636,OpTic,Luminosity,3,Cobblestone,Cache,0.0,Overpass,Nuke,0.0,Inferno,Mirage,Train
 2017-10-05,2315516,Crowns,CHAOS,1,Train,Mirage,Nuke,Overpass,Inferno,Cache,0.0,0.0,Cobblestone
@@ -11590,7 +11542,6 @@
 2017-10-04,2315514,Epsilon,AGO,1,Train,Inferno,Cache,Mirage,Nuke,Cobblestone,0.0,0.0,Overpass
 2017-10-04,2315589,Ripple,Zonic,3,Train,Nuke,0.0,Mirage,Overpass,0.0,Cache,Cobblestone,Inferno
 2017-10-04,2315539,pro100,AVANGAR,3,Train,Overpass,0.0,Nuke,Inferno,0.0,Cobblestone,Cache,Mirage
-2017-10-04,2315590,KlikTech,Binary Dragons,3,Cobblestone,Nuke,0.0,Overpass,Train,0.0,Inferno,Cache,Mirage
 2017-10-04,2315582,Kinguin,AVANGAR,3,Mirage,Inferno,0.0,Nuke,Cobblestone,0.0,Overpass,Cache,Train
 2017-10-04,2315555,Adaptation,Beacon,1,Cache,Inferno,Nuke,Cobblestone,Overpass,Train,0.0,0.0,Mirage
 2017-10-04,2315261,Morior Invictus,Gale Force,1,Inferno,Cobblestone,Train,Nuke,Cache,Mirage,0.0,0.0,Overpass
@@ -11708,7 +11659,6 @@
 2017-09-28,2315308,VITALIS,aAa,1,Cobblestone,Overpass,Nuke,Train,Cache,Mirage,0.0,0.0,Inferno
 2017-09-28,2314716,Squared,RESISTANCE,3,Cache,Mirage,0.0,Train,Nuke,0.0,Inferno,Overpass,Cobblestone
 2017-09-28,2315334,GoodJob,1337HUANIA,2,Train,Nuke,0.0,Cobblestone,Cache,0.0,Mirage,Inferno,Overpass
-2017-09-28,2315351,FlipSid3,Spirit Academy,3,Cobblestone,Inferno,0.0,Nuke,Cache,0.0,Overpass,Mirage,Train
 2017-09-28,2315354,Space Soldiers,EnVyUs Academy,3,Nuke,Cobblestone,0.0,Overpass,Mirage,0.0,Cache,Inferno,Train
 2017-09-28,2315306,Fragsters,Singularity,1,Cobblestone,Mirage,Cache,Nuke,Overpass,Train,0.0,0.0,Inferno
 2017-09-28,2315309,Japaleno,AGO,1,Inferno,Cache,Overpass,Nuke,Mirage,Cobblestone,0.0,0.0,Train
@@ -11746,14 +11696,12 @@
 2017-09-26,2314971,MK,Spirit,1,Nuke,Inferno,Cobblestone,Cache,Train,Overpass,0.0,0.0,Mirage
 2017-09-26,2315278,Heroic,fnatic,3,Cache,Cobblestone,0.0,Nuke,Inferno,0.0,Overpass,Train,Mirage
 2017-09-26,2315254,5POWER,EMP,3,Nuke,Overpass,0.0,Train,Inferno,0.0,Cache,Cobblestone,Mirage
-2017-09-26,2315272,PENTA,HellRaisers,3,Overpass,Mirage,0.0,Nuke,Train,0.0,Cobblestone,Inferno,Cache
 2017-09-26,2315169,Misfits,OpTic,3,Inferno,Nuke,0.0,Cobblestone,Cache,0.0,Mirage,Train,Overpass
 2017-09-26,2315235,Movistar Riders,eSuba,2,Overpass,Nuke,0.0,Inferno,Cobblestone,0.0,Cache,Mirage,Train
 2017-09-26,2315274,Locastic,Ripple,3,Train,Nuke,0.0,Inferno,Mirage,0.0,Overpass,Cache,Ripple
 2017-09-26,2315277,GODSENT,HAVU,3,Nuke,Train,0.0,Cobblestone,Cache,0.0,Mirage,Inferno,Overpass
 2017-09-26,2315269,MbI MuKC,Ukraine,3,Overpass,Nuke,0.0,Cache,Inferno,0.0,Mirage,Cobblestone,Train
 2017-09-26,2315237,GameAgents,Spirit Academy,2,Nuke,Train,0.0,Cobblestone,Cache,0.0,Mirage,Inferno,Overpass
-2017-09-26,2315273,RESISTANCE,Binary Dragons,3,Train,Nuke,0.0,Overpass,Cobblestone,0.0,Cache,Mirage,Inferno
 2017-09-26,2314920,Fragsters,North Academy,1,Cobblestone,Cache,Overpass,Inferno,Nuke,Mirage,0.0,0.0,Train
 2017-09-26,2315262,AGO,PRIDE,3,Nuke,Cobblestone,0.0,Overpass,Inferno,0.0,Train,Mirage,Cache
 2017-09-26,2314974,North Academy,forZe,1,Inferno,Overpass,Train,Cache,Nuke,Cobblestone,0.0,0.0,Mirage
@@ -11772,7 +11720,6 @@
 2017-09-25,2314908,Quantum Bellator Fire,Spirit,3,Overpass,Train,0.0,Cache,Cobblestone,0.0,Inferno,Mirage,Nuke
 2017-09-25,2315222,fnatic,HellRaisers,3,Overpass,Nuke,0.0,Train,Inferno,0.0,Cache,Mirage,Cobblestone
 2017-09-25,2315234,VITALIS,forZe,2,Nuke,Cobblestone,0.0,Cache,Overpass,0.0,Train,Mirage,Inferno
-2017-09-25,2315215,Japaleno,PENTA,3,Inferno,Nuke,0.0,Overpass,Train,0.0,Mirage,Cobblestone,Cache
 2017-09-25,2315249,Snabbabrillor,HAVU,3,Train,Nuke,0.0,Cobblestone,Mirage,0.0,Overpass,Inferno,Cache
 2017-09-25,2314713,KlikTech,MK,3,Cobblestone,Cache,0.0,Nuke,Inferno,0.0,Mirage,Overpass,Train
 2017-09-25,2314714,Nexus,GameAgents,3,Nuke,Overpass,0.0,Train,Cache,0.0,Mirage,Cobblestone,Inferno
@@ -11897,7 +11844,6 @@
 2017-09-19,2314921,iGame.com,EPG,1,Cobblestone,Cache,Nuke,Inferno,Overpass,Train,0.0,0.0,Mirage
 2017-09-19,2314927,AVANGAR,Vega Squadron,3,Nuke,Overpass,0.0,Cobblestone,Cache,0.0,Mirage,Train,Inferno
 2017-09-19,2314919,eXtatus,Fragsters,1,Nuke,Train,Cache,Cobblestone,Inferno,Mirage,0.0,0.0,Overpass
-2017-09-19,2314949,Squared,Binary Dragons,3,Cache,Nuke,0.0,Cobblestone,Overpass,0.0,Inferno,Mirage,Train
 2017-09-18,2314914,Spirit Academy,ex-Outlaws,1,Cobblestone,Nuke,Mirage,Inferno,Cache,Train,0.0,0.0,Overpass
 2017-09-18,2314853,Rise Nation,Splyce,2,Train,Cache,0.0,Mirage,Cobblestone,0.0,Inferno,Nuke,Overpass
 2017-09-18,2314276,Dark Sided,Kings,1,Mirage,Nuke,Cache,Cobblestone,Inferno,Overpass,0.0,0.0,Train
@@ -11994,7 +11940,6 @@
 2017-09-12,2314336,Gambit,Kinguin,2,Cobblestone,Train,0.0,Cache,Mirage,0.0,Nuke,Overpass,Inferno
 2017-09-11,2314669,forZe,AVANGAR,1,Cache,Cobblestone,Inferno,Nuke,Overpass,Train,0.0,0.0,Mirage
 2017-09-11,2314668,AVANGAR,Spirit,1,Overpass,Nuke,Inferno,Cache,Mirage,Train,0.0,0.0,Cobblestone
-2017-09-11,2314703,GameAgents,Binary Dragons,3,Nuke,Train,0.0,Overpass,Mirage,0.0,Cobblestone,Inferno,Cache
 2017-09-11,2314487,HAVU,Quantum Bellator Fire,3,Cobblestone,Cache,0.0,Overpass,Nuke,0.0,Inferno,Mirage,Train
 2017-09-11,2314488,PRIDE,Singularity,3,Overpass,Nuke,0.0,Cache,Train,0.0,Mirage,Inferno,Cobblestone
 2017-09-11,2314705,Next Generation,Nemiga,1,Overpass,Train,Nuke,Cache,Inferno,Mirage,0.0,0.0,Cobblestone
@@ -12122,7 +12067,6 @@
 2017-09-03,2313911,G2,NiP,3,Train,Mirage,0.0,Cobblestone,Overpass,0.0,Inferno,Cache,Nuke
 2017-09-03,2314235,Complexity,FRENCH CANADIANS,2,Cache,Nuke,0.0,Train,Cobblestone,0.0,Inferno,Mirage,Overpass
 2017-09-03,2314435,Tainted Minds,Kings,3,Train,Cache,0.0,Cobblestone,Inferno,0.0,Nuke,Mirage,Overpass
-2017-09-03,2314234,RONIN,Complexity,2,Train,Overpass,0.0,Cache,Nuke,0.0,Mirage,Inferno,Cobblestone
 2017-09-03,2314463,NSPR,Signature,3,Inferno,Nuke,0.0,Cache,Cobblestone,0.0,Train,Mirage,Overpass
 2017-09-03,2314464,Luminosity,NRG,3,Mirage,Overpass,0.0,Nuke,Inferno,0.0,Train,Cobblestone,Cache
 2017-09-03,2314456,Space Soldiers,Binary Dragons,3,Nuke,Inferno,0.0,Overpass,Cobblestone,0.0,Cache,Train,Mirage
@@ -12145,7 +12089,6 @@
 2017-09-02,2313909,Gambit,Astralis,3,Overpass,Inferno,0.0,Cobblestone,Nuke,0.0,Cache,Mirage,Train
 2017-09-02,2314439,Hafnet,Isurus,3,Overpass,Cobblestone,0.0,Train,Nuke,0.0,Inferno,Cache,Mirage
 2017-09-02,2313910,Immortals,North,3,Nuke,Overpass,0.0,Cache,Train,0.0,Inferno,Mirage,Cobblestone
-2017-09-01,2313904,Renegades,Natus Vincere,3,Inferno,Overpass,0.0,Cache,Mirage,0.0,Cobblestone,Train,Nuke
 2017-09-01,2314232,Tempo Storm,Misfits,2,Cache,Mirage,0.0,Inferno,Cobblestone,0.0,Train,Nuke,Overpass
 2017-09-01,2314233,Complexity,Rise Nation,2,Nuke,Mirage,0.0,Train,Cache,0.0,Inferno,Cobblestone,Overpass
 2017-09-01,2313903,Cloud9,SK,3,Overpass,Cache,0.0,Nuke,Inferno,0.0,Train,Cobblestone,Mirage
@@ -12176,7 +12119,6 @@
 2017-08-30,2314064,TeamOne,C4,3,Inferno,Cobblestone,0.0,Nuke,Mirage,0.0,Train,Cache,Overpass
 2017-08-30,2314312,Hafnet,Keyd,1,Overpass,Cobblestone,Inferno,Train,Mirage,Nuke,0.0,0.0,Cache
 2017-08-30,2314311,Isurus,INTZ,1,Train,Mirage,Cobblestone,Inferno,Nuke,Overpass,0.0,0.0,Cache
-2017-08-30,2314226,RONIN,Denial,2,Inferno,Cache,0.0,Mirage,Nuke,0.0,Cobblestone,Overpass,Train
 2017-08-30,2313311,Isurus,Hafnet,1,Mirage,Train,Nuke,Overpass,Cobblestone,Cache,0.0,0.0,Inferno
 2017-08-30,2314224,Misfits,Complexity,2,Inferno,Cobblestone,0.0,Cache,Nuke,0.0,Overpass,Train,Mirage
 2017-08-30,2313891,fnatic,Immortals,1,Overpass,Inferno,Cache,Nuke,Mirage,Train,0.0,0.0,Cobblestone
@@ -12380,7 +12322,6 @@
 2017-08-18,2313545,Quantum Bellator Fire,AVANGAR,3,Cache,Overpass,0.0,Nuke,Cobblestone,0.0,Inferno,Mirage,Train
 2017-08-18,2313421,NASR,LDLC,1,Cobblestone,Overpass,Cache,Train,Mirage,Inferno,0.0,0.0,Nuke
 2017-08-18,2313422,HAVU,NASR,1,Cobblestone,Mirage,Inferno,Nuke,Cache,Train,0.0,0.0,Overpass
-2017-08-18,2313538,Refuse,ex-GameplayDNA,3,Train,Inferno,0.0,Overpass,Nuke,0.0,Cobblestone,Cache,Mirage
 2017-08-18,2313539,Envy,LDLC,3,Mirage,Nuke,0.0,Train,Cache,0.0,Inferno,Overpass,Envy
 2017-08-18,2313554,Entity,Eternal,1,Mirage,Cache,Inferno,Nuke,Overpass,Cobblestone,0.0,0.0,Train
 2017-08-18,2313544,GoodJob,Quantum Bellator Fire,3,Train,Inferno,0.0,Overpass,Cache,0.0,Cobblestone,Nuke,Mirage
@@ -12570,7 +12511,6 @@
 2017-07-30,2312903,BOOT-d[S],TheMongolz,1,Mirage,Train,Cobblestone,Overpass,Inferno,Nuke,0.0,0.0,Cache
 2017-07-30,2313060,Outlaws,undefined,1,Nuke,Inferno,Cache,Mirage,Cobblestone,Overpass,0.0,0.0,Train
 2017-07-30,2312987,TeamOne,Merciless,3,Inferno,Mirage,0.0,Nuke,Cache,0.0,Overpass,Cobblestone,Train
-2017-07-30,2313003,GameplayDNA,Gatekeepers,3,Mirage,Overpass,0.0,Nuke,Train,0.0,Cobblestone,Inferno,Cache
 2017-07-30,2313083,Spartak,Spirit Academy,3,Cache,Mirage,0.0,Cobblestone,Nuke,0.0,Train,Overpass,Inferno
 2017-07-30,2313074,Complexity,Rise Nation,3,Mirage,Nuke,0.0,Cache,Overpass,0.0,Train,Cobblestone,Inferno
 2017-07-30,2313081,District 7,RONIN,1,Cache,Nuke,Train,Mirage,Cobblestone,Inferno,0.0,0.0,Overpass
@@ -12628,7 +12568,6 @@
 2017-07-25,2312872,Recca,Signature,1,Train,Nuke,Mirage,Cobblestone,Overpass,Cache,0.0,0.0,Inferno
 2017-07-25,2312871,TheMongolz,Signature,1,Nuke,Mirage,Train,Overpass,Cobblestone,Cache,0.0,0.0,Inferno
 2017-07-25,2312801,Furious,Hafnet,3,Inferno,Train,0.0,Cobblestone,Mirage,0.0,Overpass,Nuke,Cache
-2017-07-24,2312848,TheMongolz,Recca,1,Train,Overpass,Cache,Nuke,Inferno,Cobblestone,0.0,0.0,Mirage
 2017-07-24,2312864,Miami Flamingos,Vault,3,Train,Nuke,0.0,Mirage,Overpass,0.0,Cobblestone,Inferno,Cache
 2017-07-24,2312776,Heroic,Envy,3,Cache,Train,0.0,Mirage,Nuke,0.0,Overpass,Cobblestone,Inferno
 2017-07-24,2312849,Grayhound,Signature,1,Mirage,Cache,Cobblestone,Nuke,Overpass,Train,0.0,0.0,Inferno
@@ -12639,7 +12578,6 @@
 2017-07-23,2312774,HellRaisers,Heroic,3,Nuke,Train,0.0,Cache,Cobblestone,0.0,Mirage,Inferno,Overpass
 2017-07-23,2312773,GODSENT,Envy,3,Nuke,Train,0.0,Mirage,Overpass,0.0,Cache,Cobblestone,Inferno
 2017-07-23,2312775,Renegades,Envy,3,Inferno,Overpass,0.0,Mirage,Nuke,0.0,Cache,Train,Cobblestone
-2017-07-23,2312844,Elite Wolves,Vault,3,Train,Cobblestone,0.0,Nuke,Overpass,0.0,Inferno,Cache,Mirage
 2017-07-23,2312843,Jaguar,Miami Flamingos,3,Nuke,Cobblestone,0.0,Cache,Train,0.0,Mirage,Overpass,Inferno
 2017-07-22,2312828,ViCi,Flash,3,Mirage,Cache,0.0,Nuke,Overpass,0.0,Train,Inferno,Cobblestone
 2017-07-22,2312766,Renegades,Misfits,1,Overpass,Inferno,Nuke,Cobblestone,Cache,Train,0.0,0.0,Mirage
@@ -12722,7 +12660,6 @@
 2017-07-15,2312358,Red Reserve,NiP,3,Nuke,Inferno,0.0,Cobblestone,Train,0.0,Mirage,Cache,Overpass
 2017-07-14,2312355,Red Reserve,CLG,3,Train,Overpass,0.0,Nuke,Inferno,0.0,Cobblestone,Cache,Mirage
 2017-07-14,2312683,Imperial,Kinguin,3,Nuke,Mirage,0.0,Cache,Overpass,0.0,Train,Cobblestone,Inferno
-2017-07-14,2312659,HAVU,eSuba,3,Mirage,Cobblestone,0.0,Train,Overpass,0.0,Inferno,Cache,Nuke
 2017-07-14,2312354,Envy,KPI,3,Mirage,Nuke,0.0,Inferno,Cache,0.0,Cobblestone,Overpass,Train
 2017-07-14,2312353,Red Reserve,NRG,3,Inferno,Overpass,0.0,Mirage,Nuke,0.0,Train,Cobblestone,Cache
 2017-07-14,2312681,Spartak,LOG,3,Cache,Cobblestone,0.0,Nuke,Overpass,0.0,Inferno,Train,Mirage
@@ -12743,7 +12680,6 @@
 2017-07-12,2312616,LOG,VITALIS,1,Nuke,Overpass,0.0,Inferno,Mirage,0.0,Cache,Cobblestone,Train
 2017-07-12,2312628,Renegades,Liquid,3,Inferno,Overpass,0.0,Cache,Nuke,0.0,Mirage,Cobblestone,Train
 2017-07-12,2312626,Otter,Liquid,3,Cobblestone,Overpass,0.0,Cache,Mirage,0.0,Nuke,Inferno,Train
-2017-07-12,2312624,mouseSpaz,Otter,3,Mirage,Overpass,0.0,Cobblestone,Nuke,0.0,Cache,Train,Inferno
 2017-07-12,2312651,HAVU,Conquer,1,Cobblestone,Overpass,Nuke,Mirage,Train,Inferno,0.0,0.0,Cache
 2017-07-11,2312576,Outlaws,GODSENT,3,Cache,Inferno,0.0,Nuke,Cobblestone,0.0,Overpass,Mirage,Train
 2017-07-11,2312588,VITALIS,eSuba,1,Inferno,Nuke,0.0,Cobblestone,Train,0.0,Mirage,Cache,Overpass
@@ -13320,7 +13256,6 @@
 2017-05-21,2311033,PRIDE,Singularity,3,Overpass,Inferno,0.0,Train,Cobblestone,0.0,Cache,Nuke,Mirage
 2017-05-21,2311026,Dignitas,Heroic,3,Cobblestone,Train,0.0,Cache,Mirage,0.0,Inferno,Nuke,Overpass
 2017-05-21,2311003,Arcade,Imperial,1,Train,Cache,0.0,Nuke,Cobblestone,0.0,Inferno,Overpass,Mirage
-2017-05-20,2310985,Polaris,Kinguin,3,Cobblestone,Overpass,0.0,Nuke,Inferno,0.0,Mirage,Train,Cache
 2017-05-20,2310958,Funky Monkeys,Athletico,3,Cobblestone,Inferno,0.0,Cache,Train,0.0,Nuke,Overpass,Mirage
 2017-05-20,2310959,Legacy,AVANT,3,Mirage,Overpass,0.0,Cobblestone,Nuke,0.0,Inferno,Cache,Train
 2017-05-20,2310960,AVANT,Athletico,3,Mirage,Nuke,0.0,Cache,Overpass,0.0,Train,Cobblestone,Inferno
@@ -13398,7 +13333,6 @@
 2017-05-17,2310878,Spartak,Vega Squadron,3,Cache,Mirage,0.0,Cobblestone,Nuke,0.0,Train,Overpass,Inferno
 2017-05-17,2310871,Binary Dragons,Outlaws,1,Overpass,Cobblestone,0.0,Nuke,Cache,0.0,Mirage,Train,Inferno
 2017-05-17,2310786,ENCE,Bpro,3,Cobblestone,Inferno,0.0,Nuke,Overpass,0.0,Mirage,Cache,Train
-2017-05-17,2310822,Singularity,passions,3,Cache,Train,0.0,Inferno,Overpass,0.0,Nuke,Cobblestone,Mirage
 2017-05-17,2310872,Binary Dragons,Outlaws,1,Overpass,Cobblestone,0.0,Nuke,Cache,0.0,Mirage,Train,Inferno
 2017-05-17,2310884,BIG,HellRaisers,3,Nuke,Mirage,0.0,Inferno,Cache,0.0,Cobblestone,Overpass,Train
 2017-05-17,2310886,Spirit Academy,Evolution,3,Cobblestone,Cache,0.0,Nuke,Inferno,0.0,Overpass,Mirage,Train
@@ -13431,7 +13365,6 @@
 2017-05-16,2310593,Imperial,passions,1,Nuke,Mirage,Cobblestone,Inferno,Cache,Train,0.0,0.0,Overpass
 2017-05-16,2310855,EPG,Spirit Academy,3,Overpass,Cache,0.0,Cobblestone,Nuke,0.0,Inferno,Train,Mirage
 2017-05-15,2310800,Invictus Aquilas,Bpro,3,Train,Mirage,0.0,Overpass,Nuke,0.0,Inferno,Cobblestone,Cache
-2017-05-15,2310772,Nexus,Granted,3,Nuke,Overpass,0.0,Cache,Cobblestone,0.0,Mirage,Inferno,Train
 2017-05-15,2310841,HAVU,Outlaws,1,Overpass,Inferno,Cobblestone,Cache,Nuke,Mirage,0.0,0.0,Train
 2017-05-15,2310838,Team123,Planetkey,1,Overpass,Cache,Nuke,Train,Inferno,Mirage,0.0,0.0,Cobblestone
 2017-05-15,2310654,Singularity,PRIDE,3,Cache,Inferno,0.0,Overpass,Cobblestone,0.0,Nuke,Train,Mirage
@@ -13539,7 +13472,6 @@
 2017-05-06,2310385,Heroic,mousesports,1,Cache,Mirage,Inferno,Nuke,Overpass,Train,0.0,0.0,Cobblestone
 2017-05-06,2310437,FlipSid3 Africa,Exdee,3,Train,Nuke,0.0,Mirage,Inferno,0.0,Overpass,Cache,Cobblestone
 2017-05-06,2310386,Envy,HellRaisers,1,Overpass,Mirage,Cobblestone,Train,Nuke,Inferno,0.0,0.0,Cache
-2017-05-06,2310431,passions,PENTA,3,Cache,Train,0.0,Nuke,Cobblestone,0.0,Overpass,Inferno,Mirage
 2017-05-06,2310293,mousesports,Natus Vincere,1,Train,Overpass,Inferno,Cache,Nuke,Cobblestone,0.0,0.0,Mirage
 2017-05-06,2310433,Sensei,Outlaws,1,Overpass,Nuke,0.0,Cache,Inferno,0.0,Mirage,Train,Cobblestone
 2017-05-06,2310294,HellRaisers,Tricked,1,Cobblestone,Inferno,Nuke,Cache,Mirage,Overpass,0.0,0.0,Train
@@ -13584,10 +13516,8 @@
 2017-05-02,2310303,Arcade,ex-DarkPassage,1,Cache,Overpass,0.0,Train,Inferno,0.0,Cobblestone,Mirage,Nuke
 2017-05-02,2310302,Arcade,ex-DarkPassage,1,Cache,Overpass,0.0,Train,Inferno,0.0,Cobblestone,Mirage,Nuke
 2017-05-02,2310221,KPI,Defusekids,2,Cobblestone,Mirage,0.0,Cache,Overpass,0.0,Nuke,Train,Inferno
-2017-05-02,2310274,passions,LDLC,3,Inferno,Train,0.0,Mirage,Overpass,0.0,Cobblestone,Nuke,Cache
 2017-05-01,2310217,Singularity,Red Reserve,2,Cache,Train,0.0,Nuke,Overpass,0.0,Mirage,Cobblestone,Inferno
 2017-05-01,2310116,Gambit,Immortals,3,Cache,Mirage,0.0,Nuke,Overpass,0.0,Train,Inferno,Cobblestone
-2017-05-01,2310262,passions,Kinguin,3,Cache,Inferno,0.0,Nuke,Cobblestone,0.0,Mirage,Train,Overpass
 2017-05-01,2310218,Tricked,Tengri,2,Mirage,Cache,0.0,Nuke,Inferno,0.0,Cobblestone,Overpass,Train
 2017-05-01,2310210,Nexus,Bpro,3,Overpass,Train,0.0,Nuke,Cobblestone,0.0,Mirage,Inferno,Cache
 2017-05-01,2310219,Sensei,North Academy,2,Nuke,Train,0.0,Cache,Mirage,0.0,Inferno,Cobblestone,Overpass
@@ -13637,7 +13567,6 @@
 2017-04-28,2310175,k1ck,North Academy,1,Cache,Mirage,Overpass,Train,Inferno,Nuke,0.0,0.0,Cobblestone
 2017-04-28,2310181,MAXISAUCISSE,ex-DarkPassage,1,Mirage,Cache,Cobblestone,Overpass,Inferno,Nuke,0.0,0.0,Train
 2017-04-28,2310105,Immortals,Liquid,1,Nuke,Cobblestone,Mirage,Overpass,Cache,Train,0.0,0.0,Inferno
-2017-04-27,2310085,Above the Rest,Nexus,3,Cache,Nuke,0.0,Overpass,0.0,0.0,Train,Cobblestone,Inferno
 2017-04-27,2310144,TYLOO,Born Of Fire,3,Nuke,Inferno,0.0,Cache,Overpass,0.0,Cobblestone,Train,Mirage
 2017-04-27,2310084,Red Reserve,Forcebuy,3,Mirage,Overpass,0.0,Cache,Inferno,0.0,Nuke,Train,Cobblestone
 2017-04-27,2310150,nxl,Recca,3,Cache,Overpass,0.0,Inferno,Mirage,0.0,Train,Cobblestone,Nuke
@@ -13729,7 +13658,6 @@
 2017-04-14,2309759,LDLC,BIG,1,Mirage,Train,Cache,Cobblestone,Inferno,Nuke,0.0,0.0,Overpass
 2017-04-14,2309762,fnatic Academy,eFuture,1,Nuke,Inferno,Train,Cache,Overpass,Mirage,0.0,0.0,Cobblestone
 2017-04-14,2309738,Singularity,fnatic Academy,1,Cache,Mirage,Cobblestone,Overpass,Nuke,Inferno,0.0,0.0,Train
-2017-04-14,2309471,GameplayDNA,RuSh3D,3,Inferno,Overpass,0.0,Cache,Nuke,0.0,Cobblestone,Mirage,Train
 2017-04-14,2309740,PRIDE,Epsilon,1,Train,Overpass,Inferno,Nuke,Cache,Mirage,0.0,0.0,Cobblestone
 2017-04-14,2309741,Defusekids,dreamchasers,1,Mirage,Cache,Overpass,Nuke,Cobblestone,Train,0.0,0.0,Inferno
 2017-04-14,2309736,eXtatus,BIG,1,Nuke,Cache,Overpass,Cobblestone,Inferno,Mirage,0.0,0.0,Train
@@ -13737,7 +13665,6 @@
 2017-04-14,2309757,iGame.com,NRG,1,Inferno,Cache,Cobblestone,Nuke,Train,Mirage,0.0,0.0,Overpass
 2017-04-13,2309611,Spirit,PENTA,3,Train,Nuke,0.0,Cobblestone,Overpass,0.0,Mirage,Inferno,Cache
 2017-04-13,2309575,Eastern Vikings,Fragsters,1,Mirage,Inferno,Cache,Cobblestone,Nuke,Overpass,0.0,0.0,Train
-2017-04-13,2309623,RuSh3D,ACG,2,Cache,Nuke,0.0,Overpass,Train,0.0,Inferno,Mirage,Cobblestone
 2017-04-13,2309456,Quantum Bellator Fire,spray'n'pray,3,Cache,Overpass,0.0,Cobblestone,Mirage,0.0,Inferno,Train,Nuke
 2017-04-12,2309537,Gambit Academy,Above the Rest,2,Train,Mirage,0.0,Overpass,Cache,0.0,Inferno,Cobblestone,Nuke
 2017-04-12,2309538,PENTA,BIG,3,Cobblestone,Overpass,0.0,Nuke,Train,0.0,Inferno,Cache,Mirage
@@ -13778,7 +13705,6 @@
 2017-04-08,2309444,Premier Rejects,Splyce,3,Cobblestone,Overpass,0.0,Cache,Nuke,0.0,Inferno,Mirage,Train
 2017-04-08,2309429,Natus Vincere,fnatic,3,Cache,Cobblestone,0.0,Nuke,Train,0.0,Overpass,Inferno,Mirage
 2017-04-08,2309443,Denial,Enigma6,3,Inferno,Overpass,0.0,Nuke,Cobblestone,0.0,Cache,Mirage,Train
-2017-04-08,2309457,Red Reserve,RuSh3D,2,Inferno,Nuke,0.0,Cache,Overpass,0.0,Cobblestone,Mirage,Train
 2017-04-08,2309430,CLG,Astralis,3,Nuke,Overpass,0.0,Cobblestone,Mirage,0.0,Cache,Inferno,Train
 2017-04-07,2309418,MVP Project,Immortals,1,Cache,Train,Cobblestone,Overpass,Mirage,Nuke,0.0,0.0,Inferno
 2017-04-07,2309419,Gambit,CLG,1,Train,Mirage,Cache,Inferno,Nuke,Overpass,0.0,0.0,Cobblestone
@@ -14249,7 +14175,6 @@
 2017-02-05,2307729,Epsilon,mousesports,3,Nuke,Train,0.0,Cobblestone,Overpass,0.0,Cache,Dust2,Mirage
 2017-02-05,2307732,G2,Heroic,3,Mirage,Train,0.0,Dust2,Nuke,0.0,Cache,Overpass,Cobblestone
 2017-02-05,2307589,Playing Ducks,Wizards,3,Cobblestone,Dust2,0.0,Nuke,Train,0.0,Mirage,Overpass,Cache
-2017-02-05,2307734,Liquid,Immortals,of,Overpass,Mirage,0.0,Nuke,Train,0.0,Cobblestone,Cache,Dust2
 2017-02-05,2307640,Fragsters,RuSh3D,3,Cobblestone,Overpass,0.0,Cache,Nuke,0.0,Train,Dust2,Mirage
 2017-02-04,2307714,FlipSid3,G2,3,Dust2,Train,0.0,Mirage,Overpass,0.0,Nuke,Cache,Cobblestone
 2017-02-04,2307710,BIG,FlipSid3,3,Nuke,Overpass,0.0,Dust2,Cache,0.0,Cobblestone,Train,Mirage
@@ -14720,7 +14645,6 @@
 2016-11-04,2306423,Millenium,EURONICS,3,Train,Cache,Nuke,Dust2,Cobblestone,Mirage,0.0,0.0,Overpass
 2016-11-04,2306424,PENTA,Kinguin,3,Train,Mirage,0.0,Nuke,Overpass,0.0,Cache,Cobblestone,Dust2
 2016-11-04,2306405,ALTERNATE aTTaX,Space Soldiers,1,Train,Mirage,Dust2,Overpass,Cache,Nuke,0.0,0.0,Cobblestone
-2016-11-03,2306391,fnatic Academy,Gambit,3,Nuke,Train,0.0,Cache,Dust2,0.0,Cobblestone,Overpass,Mirage
 2016-11-03,2306399,Bpro,Revolte,1,Cache,Cobblestone,0.0,Train,Overpass,0.0,Dust2,Mirage,Nuke
 2016-11-03,2306412,Complexity,Denial,3,Overpass,Nuke,0.0,Dust2,Train,0.0,Cache,Cobblestone,Mirage
 2016-11-03,2306390,Exile5,SYF,3,Overpass,Mirage,0.0,Train,Cache,0.0,Nuke,Dust2,Cobblestone
@@ -15005,7 +14929,6 @@
 2016-09-22,2304982,Comanche,Enso,1,Cobblestone,Train,Cache,Overpass,Nuke,Mirage,0.0,0.0,Dust2
 2016-09-22,2304973,fnatic Academy,eSuba,3,Nuke,Dust2,0.0,Overpass,Cobblestone,0.0,Cache,Mirage,Train
 2016-09-22,2304981,Enso,5FRAGS,1,Nuke,Overpass,Cobblestone,Cache,Train,Dust2,0.0,0.0,Mirage
-2016-09-22,2304939,SK,SofaKingGood,2,Overpass,Nuke,0.0,Mirage,Dust2,0.0,Train,Cache,Cobblestone
 2016-09-21,2304756,Gambit,Preparation,2,Overpass,Nuke,0.0,Train,Cache,0.0,Cobblestone,Mirage,Dust2
 2016-09-21,2304755,Tricked,passions,2,Cache,Dust2,0.0,Train,Overpass,0.0,Cobblestone,Mirage,Nuke
 2016-09-21,2304965,fnatic Academy,k1ck,1,Nuke,Overpass,Dust2,Mirage,Train,Cobblestone,0.0,0.0,Cache
@@ -15031,7 +14954,6 @@
 2016-09-19,2304906,Red Instinct,beGenius,1,Dust2,Nuke,Train,Overpass,Cobblestone,Cache,0.0,0.0,Mirage
 2016-09-18,2304824,Envy,Cloud9,3,Overpass,Train,0.0,Nuke,Cobblestone,0.0,Cache,Mirage,Dust2
 2016-09-18,2304816,Dignitas,Virtus.pro,3,Train,Cache,0.0,Nuke,Dust2,0.0,Mirage,Cobblestone,Overpass
-2016-09-18,2304858,walkover,Singularity,1,Cobblestone,Overpass,Train,Dust2,Cache,Nuke,0.0,0.0,Mirage
 2016-09-18,2304852,walkover,Magistra,1,Cobblestone,Overpass,Nuke,Cache,Dust2,Mirage,0.0,0.0,Train
 2016-09-18,2304840,Cloud9,Virtus.pro,3,Nuke,Mirage,0.0,Dust2,Overpass,0.0,Train,Cobblestone,Cache
 2016-09-18,2304757,passions,Preparation,2,Dust2,Train,0.0,Cache,Cobblestone,0.0,Overpass,Nuke,Mirage
@@ -15047,7 +14969,6 @@
 2016-09-17,2304827,MVP Project,4dimensioN,1,Cache,Dust2,Nuke,Train,Overpass,Mirage,0.0,0.0,Cobblestone
 2016-09-17,2304829,TheMongolz,m0nster,1,Train,Overpass,Nuke,Mirage,Cobblestone,Cache,0.0,0.0,Dust2
 2016-09-17,2304823,Dignitas,FaZe,3,Train,Mirage,0.0,Cobblestone,Overpass,0.0,Nuke,Cache,Dust2
-2016-09-17,2304714,Renegades,SofaKingGood,2,Overpass,Cache,0.0,Mirage,Nuke,0.0,Dust2,Cobblestone,Train
 2016-09-17,2304835,fnatic Academy,Epsilon,3,Nuke,Train,0.0,Cache,Dust2,0.0,Mirage,Overpass,Cobblestone
 2016-09-17,2304710,Renegades,Immortals,2,Overpass,Cobblestone,0.0,Dust2,Nuke,0.0,Mirage,Train,Cache
 2016-09-16,2304754,Tricked,GODSENT,2,Cache,Mirage,0.0,Cobblestone,Nuke,0.0,Overpass,Train,Dust2

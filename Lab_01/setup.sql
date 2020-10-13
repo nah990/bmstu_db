@@ -9,7 +9,7 @@ CREATE DATABASE db_matches;
 \c db_matches;
 
 CREATE TABLE maps_results(
-    map_result_id INT NOT NULL,
+    map_result_id INT NOT NULL CHECK(map_result_id > 0),
     match_id INT NOT NULL CHECK(match_id > 0),
     team_1 VARCHAR NOT NULL,
     team_2 VARCHAR NOT NULL,
@@ -22,11 +22,11 @@ CREATE TABLE maps_results(
 );
 
 CREATE TABLE matches(
-    match_date DATE NOT NULL CHECK(match_date > '1000-01-01'),
+    match_date DATE NOT NULL CHECK(match_date > '2010-01-01'),
     match_id INT NOT NULL CHECK(match_id > 0),
     team_1 VARCHAR NOT NULL,
     team_2 VARCHAR NOT NULL,
-    match_format VARCHAR,
+    match_format VARCHAR NOT NULL,
     t1_removed_1 VARCHAR NOT NULL,
     t1_removed_2 VARCHAR NOT NULL,
     t1_removed_3 VARCHAR NOT NULL,
@@ -41,18 +41,18 @@ CREATE TABLE matches(
 );
 
 CREATE TABLE players_results(
-    player_result_id INT NOT NULL,
+    player_result_id INT NOT NULL CHECK (player_result_id > 0),
     match_id INT NOT NULL CHECK(match_id > 0),
-    match_date DATE NOT NULL CHECK(match_date > '1000-01-01'),
+    match_date DATE NOT NULL CHECK(match_date > '2010-01-01'),
     player_name VARCHAR NOT NULL,
     player_team VARCHAR NOT NULL,
     player_team_against VARCHAR NOT NULL,
     player_country VARCHAR NOT NULL,
-    player_id INT NOT NULL,
-    player_kills VARCHAR,
-    player_assists VARCHAR,
-    player_deaths VARCHAR,
-    map_result_id INT NOT NULL,
+    player_id INT NOT NULL CHECK (player_id > 0),
+    player_kills INT DEFAULT 0,
+    player_assists INT DEFAULT 0,
+    player_deaths INT DEFAULT 0,
+    map_result_id INT NOT NULL CHECK(map_result_id > 0),
     PRIMARY KEY (player_result_id),
     FOREIGN KEY(match_id) REFERENCES matches(match_id),
     FOREIGN KEY(map_result_id) REFERENCES maps_results(map_result_id)
