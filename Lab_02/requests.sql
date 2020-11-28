@@ -67,6 +67,7 @@ LIMIT 100
 
 SELECT player_name, player_kills, player_deaths,
 	CASE
+
 		WHEN player_kills < player_deaths THEN 'KDA < 1'
 		WHEN player_kills > player_deaths THEN 'KDA > 1'
 		ELSE 'KDA equal 1'
@@ -74,6 +75,13 @@ SELECT player_name, player_kills, player_deaths,
 FROM players_results
 
 --TODO CASE simple
+
+select decider_map,
+	case decider_map
+		when 'Mirage' then 'Eto Mirage'
+		else 'Eto ne Mirage'
+	end as Mirage_li
+from matches
 
 --Создание новой временной локальной таблицы из результирующего набора данных инструкции SELECT. 
 
@@ -102,7 +110,6 @@ where p.player_kills > (
 LIMIT 10
 
 --Инструкция SELECT, использующая вложенные подзапросы с уровнем вложенности 3.
---TODO 3 вложенность
 select player_name, player_team, player_kills, player_deaths, match_date
 from players_results
 where player_kills > (
@@ -111,8 +118,11 @@ where player_kills > (
 	where player_deaths < (
 		select AVG(player_deaths)
 		from players_results
-		where match_date > '2020-01-01'
-
+		where player_assists >(
+			select AVG(player_assists)
+			from players_results
+			where match_date > '2020-01-01'
+		)
 	)
 )
 order by player_kills desc
@@ -252,3 +262,24 @@ where match_id in
 )
 --TODO
 --Инструкция SELECT, использующая рекурсивное обобщенное табличное выражение.
+
+WITH RECURSIVE know_each_other (id1, id2, level) as (
+    select id1, id2, 0 as level
+    from play_with
+    where id1 = 29
+    UNION all
+    select t1.id1, t2.id2, level + 1
+    from know_each_other t1
+    join play_with t2 
+    on t1.id2 = t2.id1 AND level < 1
+),
+play_with (id1, id2) as (
+    select distinct a.player_id, b.player_id
+    from players_results a join players_results b
+    on a.match_id = b.match_id
+    where a.player_id <> 0
+    and b.player_id <> 0
+    and a.player_id <> b.player_id
+)
+select DISTINCT *
+from know_each_other
