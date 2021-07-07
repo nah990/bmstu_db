@@ -1,7 +1,7 @@
 import psycopg2
 #from password import dehash
 
-MYPASSWORD = str(dehash('7f5f632a')) + "Proman"
+MYPASSWORD = str(dehash('7f5f632a'))
 CONTINUE = 0
 SHUTDOWN = 1
 
